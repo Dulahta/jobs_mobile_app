@@ -1,7 +1,7 @@
 # React Native 
 # Jobs Mobile App
 
- A React Native Jobs Mobile App designed for skill enhancement and practice in React Native development. Explore job listings, practice React Native features, and enhance your proficiency in mobile app development.
+## A React Native Jobs Mobile App designed for skill enhancement and practice in React Native development. Explore job listings, practice React Native features, and enhance your proficiency in mobile app development.
 
 # Expo Router Example
 
